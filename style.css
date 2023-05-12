@@ -52,7 +52,7 @@ body {
 }
 
 /* Media queries for smaller screens */
-@media only screen and (max-width: 500px) {
+@media only screen and (max-width: 1284px) {
   .cursor-effect {
     width: 50px;
     height: 50px;
